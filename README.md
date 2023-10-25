@@ -1,2 +1,2 @@
-# NLP_BERT_Based_StockMarketPrediction
+# Master Thesis
 All the data and original codes of my Master Thesis are backed up here
