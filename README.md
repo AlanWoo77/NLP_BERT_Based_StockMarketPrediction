@@ -7,4 +7,5 @@ All the data used in this paper can be downloaded from this Google Drive: https:
 # Models
 All the trained models can be downloaded from this Google Drive: https://drive.google.com/drive/folders/18w7hFh4dJihzxU3gqI3pMuz1-JyNfulo?usp=sharing
 
-
+# LaTex code
+The source LaTex code can be found here: https://drive.google.com/drive/folders/1yvFPMpxQDBWj2rCnHlxtl4qt4Tdswro1?usp=sharing
